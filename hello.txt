@@ -1,1 +1,4 @@
-Hi! Good Morning I am here to learn DevOps
+Hi!
+Good Morning.
+I am here to learn DevOps.
+Devops=Develpment+operations.
